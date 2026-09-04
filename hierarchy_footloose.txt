@@ -1,0 +1,9 @@
+footloose-financial-model/
+├── README.md
+├── LICENSE
+├── docs/
+│   └── investment_analysis_breakdown.md
+├── models/
+│   └── footloose_travel_financial_model.xlsx
+└── src/
+    └── valuation_model.py
